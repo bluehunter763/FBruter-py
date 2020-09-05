@@ -1,13 +1,13 @@
 # FBruter-py
 This is a python script to bruteforce facebook.
 
-Can be used by Android with termux.
+Can be used by both linux and Android with termux.
 
 # Instructions for linux
 
 git clone https://github.com/bluehunter763/FBruter-py.git
 
-cd fbruter
+cd FBruter-py
 
 pip3 install -r requirements.txt
 
@@ -21,7 +21,7 @@ git clone https://github.com/bluehunter763/FBruter-py.git
 
 apt install python
 
-cd fbruter
+cd FBruter-py
 
 pip install -r requirements.txt
 
